@@ -25,4 +25,12 @@ Basis | Linear Regression | Logistic Regression
  **Output/Predction** | Value of the variable | Probability of occurence of the event
  **Accurecy and goodness of fit** | Measured by loss, R Squared, Adjusted R squared etc | Accuracy, Precision, Recall, F1 Score, ROC curve, Confusion Matrix etc
 
+
+### **Linear Regression Selection Criteria**
+> * Classification and Regression capabilities 
+> * Data Quality
+> * Computational Complexity
+> * Comprehensible and Transparent
+
+
  ---
