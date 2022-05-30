@@ -32,5 +32,9 @@ Basis | Linear Regression | Logistic Regression
 > * Computational Complexity
 > * Comprehensible and Transparent
 
+### **Where is Linear Regression used?**
+> * Evaluting Treds and Sales Estimates
+> * Analysis the Impact of Price Changes
+> * Assesment of risk in financial sercices and insurence domain
 
  ---
