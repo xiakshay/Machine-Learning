@@ -37,4 +37,9 @@ Basis | Linear Regression | Logistic Regression
 > * Analysis the Impact of Price Changes
 > * Assesment of risk in financial sercices and insurence domain
 
+
+### **What is R-Square?**
+> * R-squared value is a statical measure of how cloase the data are to the fitted regression line
+> * It is also known as coefficient of determination, or the coefficient of multiple determination
+
  ---
